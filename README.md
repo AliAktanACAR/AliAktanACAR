@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AliAktanACAR
-- 👀 I’m interested in Robotic Coding in VexV5 and FRC
+- 👀 I’m interested in Robotic Coding in VexV5 and FRC (PYTHON, JAVA)
 - 🌱 I’m currently learning java and c++
 
 
