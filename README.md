@@ -4,8 +4,8 @@
 
 1 Excellence Award                                      
 2 Build Award                            
-2 Design Award
-1 Create Award
+2 Design Award             
+1 Create Award            
 
 
 <!---
