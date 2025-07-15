@@ -2,6 +2,10 @@
 - 👀 I’m interested in Robotic Coding in VexV5 and FRC (PYTHON, JAVA)
 - 🌱 I’m currently learning java and c++
 
+1 Excellence Award                                      
+2 Build Award                            
+2 Design Award
+1 Create Award
 
 
 <!---
