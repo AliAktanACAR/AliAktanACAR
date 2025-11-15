@@ -16,7 +16,7 @@
 <a href="https://instagram.com/a.aktanacar58" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="a.acar58" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/AliACAR_1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="aliaktanacar" height="30" width="40" /></a>
 <a href="https://discord.gg/480288256609615872" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt=".dagger.58" height="30" width="40" /></a>
-<a href="https://www.codewars.com/users/AliACAR58" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/https://www.google.com/url?sa=i&url=https%3A%2F%2Ficons8.com%2Ficon%2FgDJDJJ1MCGmG%2Fcodewars&psig=AOvVaw2bopEIb4bRuvko0npMCnke&ust=1763286050324000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCLjMv8ju85ADFQAAAAAdAAAAABAX" alt="codewars" height="30" width="40" /></a>
+<a href="https://www.codewars.com/users/AliACAR58" target="blank"><img align="center" src="https://docs.codewars.com/logo.svg alt="codewars" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
