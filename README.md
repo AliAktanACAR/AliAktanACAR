@@ -16,7 +16,7 @@
 <a href="https://instagram.com/a.aktanacar58" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="a.acar58" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/AliACAR_1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="aliaktanacar" height="30" width="40" /></a>
 <a href="https://discord.gg/480288256609615872" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt=".dagger.58" height="30" width="40" /></a>
-<a https://www.codewars.com/users/AliACAR58
+<a href="https://www.codewars.com/users/AliACAR58" target="blank"><img align="center" src="https://www.codewars.com/packs/assets/logo.61192cf7.svg" alt="codewars" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
