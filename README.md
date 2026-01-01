@@ -2,6 +2,7 @@
 <h3 align="center">Students at Tevfik Fikret High School Türkiye/Ankara/Çankaya</h3>
 
 [<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aliaktanacar" alt="aliaktanacar" /></a> </p>](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dark_lover)
+https://github-profile-trophy.vercel.app/?username=ryo-ma&rank=S
 
 ![](https://komarev.com/ghpvc/?username=AliAktanACAR&color=blue)
 
