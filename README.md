@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ali Aktan ACAR</h1>
 <h3 align="center">Students at Tevfik Fikret High School Türkiye/Ankara/Çankaya</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aliaktanacar" alt="aliaktanacar" /></a> </p>
+[<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aliaktanacar" alt="aliaktanacar" /></a> </p>](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dark_lover)
 
 ![](https://komarev.com/ghpvc/?username=AliAktanACAR&color=blue)
 
