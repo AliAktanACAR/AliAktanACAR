@@ -7,7 +7,9 @@
 
 - 🔭 I'm currently working on **ChatBot Project, Rototic Coding and Algorithms**
 
-- 🌱 I'm currently learning **Java, C++, HTML, JavaScript**
+- 💻 I'm currently working on **Java, Python and C++ Projects**
+
+- 🌱 I'm currently learning **, C++, HTML, JavaScript**
 
 - 📫 How to reach me **ali_acar@tfo.k12.tr**
 
