@@ -5,7 +5,7 @@
 
 ![](https://komarev.com/ghpvc/?username=AliAktanACAR&color=blue)
 
-- 🔭 I'm currently working on **ChatBot Project, Rototic Coding and Algorithms**
+- 🔭 I'm currently working on **ChatBot Project, Robotic Coding and Algorithms**
 
 - 💻 I'm currently working on **Java, Python and C++ Projects**
 
