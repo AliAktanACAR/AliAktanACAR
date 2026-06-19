@@ -9,6 +9,8 @@
 
 - 💻 I'm currently working on **Java, Python and C++ Projects**
 
+- 💻 I already learned **Java, Python and C**
+
 - 🌱 I'm currently learning **, C++, HTML, JavaScript**
 
 - 📫 How to reach me **ali_acar@tfo.k12.tr**
