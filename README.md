@@ -2,8 +2,10 @@
 
 <h2 align="center">
 Team Captain Of
+<img src="./assets/first-robotics-competition-vector-logo.svg" alt="FRC" width="30" height="30"/>
 FRC Team 3390
 -
+<img src="./assets/vex-robotics-logo-vector.svg" alt="VEX" width="30" height="30"/>
 V5RC Team 33900B
 </h2>
 
@@ -55,9 +57,15 @@ Student at Tevfik Fikret High School | Ankara, Türkiye
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="50" height="50"/>
 </a>
 
-<img src="./assets/solidworks-svgrepo-com.svg" alt="solidworks" width="50" height="50"/>
+<img src="./assets/onshape-svgrepo-com.svg"
+     width="50"
+     height="50"
+     style="background:white;padding:4px;border-radius:8px;" />
 
-<img src="./assets/onshape-svgrepo-com.svg" alt="onshape" width="50" height="50"/>
+<img src="./assets/solidworks-svgrepo-com.svg"
+     width="50"
+     height="50"
+     style="background:white;padding:4px;border-radius:8px;" />
 
 <a href="https://www.autodesk.com/products/fusion-360">
 <img src="https://cdn.simpleicons.org/autodesk" alt="fusion360" width="50" height="50"/>
