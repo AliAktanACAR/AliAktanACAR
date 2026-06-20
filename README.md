@@ -28,9 +28,9 @@ Student at Tevfik Fikret High School | Ankara, Türkiye
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://www.hackerrank.com/profile/ali_acar" target="blank"><img align="center" src="https://cdn.simpleicons.org/hackerrank/00EA64" alt="hackerrank" height="70" width="70" /></a>
-<a href="https://instagram.com/a.aktanacar58" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="a.acar58" height="70" width="70" /></a>
-<a href="https://www.youtube.com/c/AliACAR_1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="aliaktanacar" height="70" width="70" /></a>
-<a href="https://discord.gg/480288256609615872" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt=".dagger.58" height="70" width="70" /></a>
+<a href="https://instagram.com/a.aktanacar58" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="a.acar58" height="62" width="62" /></a>
+<a href="https://www.youtube.com/c/AliACAR_1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="aliaktanacar" height="62" width="62" /></a>
+<a href="https://discord.gg/480288256609615872" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt=".dagger.58" height="62" width="62" /></a>
 </p>
 
 <h3 align="center">Languages and Tools</h3>
