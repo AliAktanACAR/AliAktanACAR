@@ -58,15 +58,15 @@ Student at Tevfik Fikret High School | Ankara, Türkiye
 </a>
 
 <a href="https://www.solidworks.com/">
-<img src="https://cdn.simpleicons.org/solidworks" alt="solidworks" width="60" height="60"/>
+<img src="https://cdn.simpleicons.org/solidworks" alt="solidworks" width="50" height="50"/>
 </a>
 
 <a href="https://www.onshape.com/">
-<img src="https://cdn.simpleicons.org/onshape" alt="onshape" width="60" height="60"/>
+<img src="https://cdn.simpleicons.org/onshape" alt="onshape" width="50" height="50"/>
 </a>
 
 <a href="https://www.autodesk.com/products/fusion-360">
-<img src="https://cdn.simpleicons.org/autodesk" alt="fusion360" width="60" height="60"/>
+<img src="https://cdn.simpleicons.org/autodesk" alt="fusion360" width="50" height="50"/>
 </a>
 
 <a href="https://aws.amazon.com">
