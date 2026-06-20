@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Ali Aktan ACAR</h1>
 
 <h2 align="center">
-Team Captain Of FRC
-<img src="https://www.firstinspires.org/sites/default/files/uploads/resource_library/brand/first-logo.svg" height="22">
+Team Captain Of
+<img src="./assets/frc.svg" alt="FRC" width="30" height="30"/>
+FRC Team 3390
 -
-V5RC
-<img src="https://raw.githubusercontent.com/vexide/vexide/main/.github/assets/vex.svg" height="22">
-Team 33900B
+<img src="./assets/vex.svg" alt="VEX" width="30" height="30"/>
+V5RC Team 33900B
 </h2>
 
 <h3 align="center">
@@ -21,7 +21,7 @@ Student at Tevfik Fikret High School | Ankara, Türkiye
 
 - 💻 I already learned **Java, Python and C**
 
-- 🌱 I'm currently learning **, C++, HTML, JavaScript**
+- 🌱 I'm currently learning **C++, HTML, JavaScript**
 
 - 📫 How to reach me **ali_acar@tfo.k12.tr**
 
@@ -57,13 +57,9 @@ Student at Tevfik Fikret High School | Ankara, Türkiye
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="50" height="50"/>
 </a>
 
-<a href="https://www.solidworks.com/">
-<img src="https://cdn.simpleicons.org/solidworks" alt="solidworks" width="50" height="50"/>
-</a>
+<img src="./assets/solidworks.svg" alt="solidworks" width="50" height="50"/>
 
-<a href="https://www.onshape.com/">
-<img src="https://cdn.simpleicons.org/onshape" alt="onshape" width="50" height="50"/>
-</a>
+<img src="./assets/onshape.svg" alt="onshape" width="50" height="50"/>
 
 <a href="https://www.autodesk.com/products/fusion-360">
 <img src="https://cdn.simpleicons.org/autodesk" alt="fusion360" width="50" height="50"/>
