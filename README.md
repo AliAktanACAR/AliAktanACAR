@@ -57,6 +57,18 @@ Student at Tevfik Fikret High School | Ankara, Türkiye
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="50" height="50"/>
 </a>
 
+<a href="https://www.solidworks.com/">
+<img src="https://cdn.simpleicons.org/solidworks" alt="solidworks" width="60" height="60"/>
+</a>
+
+<a href="https://www.onshape.com/">
+<img src="https://cdn.simpleicons.org/onshape" alt="onshape" width="60" height="60"/>
+</a>
+
+<a href="https://www.autodesk.com/products/fusion-360">
+<img src="https://cdn.simpleicons.org/autodesk" alt="fusion360" width="60" height="60"/>
+</a>
+
 <a href="https://aws.amazon.com">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="50" height="50"/>
 </a>
