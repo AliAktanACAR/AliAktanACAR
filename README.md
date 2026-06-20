@@ -1,9 +1,17 @@
 <h1 align="center">Hi 👋, I'm Ali Aktan ACAR</h1>
-<h2 align="center">Team Captain Of FRC Team 3390 - V5RC Team 33900B</h2>
-<h3 align="center">Students at Tevfik Fikret High School Türkiye/Ankara/Çankaya</h3>
 
+<h2 align="center">
+Team Captain Of FRC
+<img src="https://www.firstinspires.org/sites/default/files/uploads/resource_library/brand/first-logo.svg" height="22">
+-
+V5RC
+<img src="https://raw.githubusercontent.com/vexide/vexide/main/.github/assets/vex.svg" height="22">
+Team 33900B
+</h2>
 
-
+<h3 align="center">
+Student at Tevfik Fikret High School | Ankara, Türkiye
+</h3>
 
 ![](https://komarev.com/ghpvc/?username=AliAktanACAR&color=blue)
 
