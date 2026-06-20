@@ -23,7 +23,7 @@ Student at Tevfik Fikret High School | Ankara, Türkiye
 
 - 🌱 I'm currently learning **C++, HTML, JavaScript**
 
-- 📫 How to reach me **ali_acar@tfo.k12.tr**
+- 📫 How to reach me **ali_acar@tfo.k12.tr** , **https://www.linkedin.com/in/ali-aktan-acar-502349411/?isSelfProfile=true**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
