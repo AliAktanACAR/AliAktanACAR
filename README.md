@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ali Aktan ACAR</h1>
+<h2 align="center">Team Captain Of FRC Team 3390 - V5RC Team 33900B</h2>
 <h3 align="center">Students at Tevfik Fikret High School Türkiye/Ankara/Çankaya</h3>
-<h5 align="center">Team Captain Of FRC Team 3390 - V5RC Team 33900B</h3>
+
 
 
 
@@ -18,10 +19,10 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
+<a href="https://www.hackerrank.com/profile/ali_acar" target="blank"><img align="center" src="https://cdn.simpleicons.org/hackerrank/00EA64" alt="hackerrank" height="30" width="40" /></a>
 <a href="https://instagram.com/a.aktanacar58" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="a.acar58" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/AliACAR_1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="aliaktanacar" height="30" width="40" /></a>
 <a href="https://discord.gg/480288256609615872" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt=".dagger.58" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/profile/ali_acar" target="blank"><img align="center" src="https://cdn.simpleicons.org/hackerrank/00EA64" alt="hackerrank" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
