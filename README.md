@@ -2,10 +2,8 @@
 
 <h2 align="center">
 Team Captain Of
-<img src="./assets/FIRST_Robotik_Yarismasi_(logo).svg" alt="FRC" width="30" height="30"/>
 FRC Team 3390
 -
-<img src="./assets/vex-robotics-logo-vector.svg" alt="VEX" width="30" height="30"/>
 V5RC Team 33900B
 </h2>
 
