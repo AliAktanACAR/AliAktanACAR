@@ -19,9 +19,9 @@ Student at Tevfik Fikret High School | Ankara, Türkiye
 
 - 💻 I'm currently working on **Java, Python and C++ Projects**
 
-- 💻 I already learned **Java, Python and C**
+- 💻 I'm already working on **Java, Python and C** projects
 
-- 🌱 I'm currently learning **C++, HTML, JavaScript**
+- 🌱 I'm currently learning **C++, HTML, CSS and JavaScript**
 
 - 📫 How to reach me **ali_acar@tfo.k12.tr** , **https://www.linkedin.com/in/ali-aktan-acar-502349411**
 
